@@ -6,7 +6,7 @@ public class Project {
 		
 		System.out.println("Hello");
 		
-		throw new Exception("This is exception");
+		throw new Exception("This is exception occured");
 
 	}
 
